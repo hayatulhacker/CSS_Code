@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>selector element</title>
+    <style>
+        h1{
+            color:cyan;
+        }
+        p{
+            color:darkgoldenrod;
+        }
+    </style>
+    
+</head>
+<body>
+    <h1>technology</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo doloremque doloribus sunt suscipit possimus architecto aspernatur rem. Amet ut temporibus libero nostrum? Tempore eos voluptatem fuga alias similique a eligendi voluptate, officia minima rerum, odio odit vel est excepturi nulla.</p>
+</body>
+</html>
