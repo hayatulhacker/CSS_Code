@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>class selector</title>
+    <style>
+           .first{
+            color:burlywood;
+           }
+           .second{
+            color:hotpink;
+           }
+           
+    </style>
+    
+</head>
+<body>
+    <div class="second">Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, repellendus quisquam! Expedita amet quas officiis provident ab modi. Delectus esse fuga tempora, ab eveniet, in quod doloremque consequuntur repellendus minima vero reprehenderit laudantium quibusdam corporis voluptatum itaque beatae animi velit?</div><br>
+    <div class="second">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis assumenda officiis molestiae. Repudiandae, rerum. Minima, harum? Cupiditate enim dolore, sequi facere doloribus illo neque reiciendis ipsum repellendus? Consequatur, in saepe?</div>
+</body>
+</html>
