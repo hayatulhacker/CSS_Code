@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>color property
+    </title>
+   <style>
+    h1{
+        color:gold;
+    }
+    p{
+        color:blueviolet;
+    }
+   </style>
+</head>
+<body>
+    <h1>web development</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis deserunt esse necessitatibus pariatur beatae aperiam reprehenderit cumque accusantium corrupti ut!</p>
+</body>
+</html>
