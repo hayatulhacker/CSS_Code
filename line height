@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>line height</title>
+    <style>
+        #first{
+            line-height: 5px;
+        }
+        #second{
+            line-height: 90px;
+        }
+    </style>
+</head>
+<body>
+    <p id="first">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur nemo temporibus corporis, libero nihil possimus sed ipsum deserunt nesciunt cupiditate consequatur, inventore dolore repellat! Qui assumenda repellat doloremque autem impedit asperiores vel, earum, beatae, dolorem voluptatum sapiente quis facere quos. Aliquid, ipsum. Aut, soluta veniam voluptate qui porro eaque laudantium eius accusantium nulla voluptatibus, ipsum, cupiditate earum. Cupiditate, dolores optio. </p>
+    <p id="second">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque culpa doloribus in unde dignissimos ut corporis ullam officia accusamus numquam natus commodi quam harum sunt suscipit incidunt sit id, fugiat odio ex quos quibusdam reiciendis iusto velit. Ea, cupiditate eveniet ad expedita unde necessitatibus fugiat, eaque porro consequatur quia earum!
+    </p>
+</body>
+</html>
